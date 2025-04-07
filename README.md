@@ -12,8 +12,8 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 My answers:
 
-well two graphs cant be one-to-one if there is a Vertice missing from one of the sets.
-i believe that we need to prove that $V_1 <= V_2$ and $V_2 <= V_1$ for the graphs to be both 1-1 and Onto meaning:
+well the mappings of two graphs cant be one-to-one if there is a Vertice missing from one of the sets.
+i believe that we need to prove that $V_1 <= V_2$ and $V_2 <= V_1$ for the mappings to be both 1-1 and Onto meaning:
 
 let:
 num_v_in_G1 = $G_1$.numVerticies()
